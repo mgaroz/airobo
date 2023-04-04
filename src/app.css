@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: 'Proxima Nova';
+	src: url('/fonts/pnbold.woff2') format('woff2') font-weight-bold,
+		url('/fonts/pnregular.woff2') format('woff2') font-weight-regular,
+		url('/fonts/pnlight.woff2') format('woff2') font-weight-light;
+}
