@@ -28,19 +28,19 @@
 
 <section
 	id="experience"
-	class="bg-[radial-gradient(circle_at_center_left,_var(--tw-gradient-stops))] to-blue-violet-500 via-boston-blue-500 from-[#52758e] pb-20 px-14"
+	class="to-blue-violet-500 via-boston-blue-500 bg-[radial-gradient(circle_at_center_left,_var(--tw-gradient-stops))] from-[#52758e] px-14 pb-20"
 >
 	<div class="flex justify-between pb-20">
 		<div>
 			<h2 class="text-[44px] font-bold">Experience AI<br />in action</h2>
 		</div>
-		<div class="max-w-md flex items-center">
+		<div class="flex max-w-md items-center">
 			<p class="text-xl">
 				Without humans, technology solves nothing. We match technology with humans needs.
 			</p>
 		</div>
 	</div>
-	<div class="flex gap-6 justify-between">
+	<div class="flex justify-between gap-6">
 		{#each items as item}
 			<CardVariant {item} />
 		{/each}

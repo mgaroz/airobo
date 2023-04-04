@@ -31,12 +31,12 @@
 
 <section
 	id="results"
-	class="px-14 pt-10 pb-28 bg-[radial-gradient(circle_at_center_right,_var(--tw-gradient-stops))] from-blue-violet-500 via-boston-blue-500 to-[#52758e]"
+	class="from-blue-violet-500 via-boston-blue-500 bg-[radial-gradient(circle_at_bottom_right,_var(--tw-gradient-stops))] to-[#52758e] px-14 pb-28 pt-10"
 >
-	<div class="flex items-center justify-center text-[44px] font-bold pb-16 text-center">
+	<div class="flex items-center justify-center pb-16 text-center text-[44px] font-bold">
 		<h2>Get results in <br /> your team work</h2>
 	</div>
-	<div class="flex gap-6 justify-between border-t-2">
+	<div class="flex justify-between gap-6 border-t-2">
 		{#each items as item}
 			<Card {item} />
 		{/each}
