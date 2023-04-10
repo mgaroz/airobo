@@ -13,7 +13,7 @@
 	<div
 		class="from-blue-violet-500 via-boston-blue-500 flex min-h-screen items-start justify-between gap-20 bg-[radial-gradient(ellipse_at_bottom_right,_var(--tw-gradient-stops))] to-[#52758e] px-14 pb-28 pt-[88px]"
 	>
-		<div id="left" class="flex min-h-screen w-1/6 flex-col gap-16">
+		<div id="left" class="flex min-h-screen flex-col gap-16 md:w-1/6">
 			<div id="logo" class="text-4xl font-bold">AiRobo</div>
 			<div id="nav">
 				<ul class="flex flex-col gap-6 text-[18px] text-white/70">
