@@ -8,7 +8,7 @@
 	<meta name="robots" content="index nofollow" />
 	<meta
 		name="description"
-		content="AiRobo is a company that specializes in improving quality of life through AI."
+		content="AiRobo is a company that specializes in improving quality of life through Artificial Intelligence"
 	/>
 </svelte:head>
 
