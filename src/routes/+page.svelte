@@ -30,7 +30,7 @@
 					<span class="text-[14px] text-white/50">01/</span>
 					<div class="inline-block w-[85%]">
 						<div class="flex items-center justify-between border-b-2 border-white/60">
-							<p class="inline-block text-xl">Rillcuy</p>
+							<p class="inline-block text-xl">Rillcuv</p>
 							<svg
 								xmlns="http://www.w3.org/2000/svg"
 								fill="none"
